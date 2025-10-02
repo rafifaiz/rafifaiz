@@ -73,7 +73,10 @@
 - Tik Tok: https://www.tiktok.com/@leorapii
 - Linkedin: https://www.linkedin.com/in/rafi-faiz-b15064346/
 
----
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rafifaiz&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rafifaiz&theme=dark&hide_border=true)<br/>
+
 
 ### ⚠️ Responsible Disclosure / Security Policy
 I do **not** publish exploits that would harm real people or active systems.  
