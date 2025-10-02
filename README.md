@@ -4,10 +4,10 @@
 </p>
 
 <!-- GIF kanan -->
-<img align="right" alt="hacker gif" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGcwenNkcDVicGVjeHYxbmxqZzhkNGEzMjg1cW56cmF2YmZqNWU2diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/fx6Ynu2Hy1HYmsARdw/giphy.gif" />
+<img align="right" alt="hacker gif" width="320" src="https://media.giphy.com/media/fx6Ynu2Hy1HYmsARdw/giphy.gif" />
 
 <p align="center">
-  <a href="https://github.com/rafifaiz"><img alt="github followers" src="https://img.shields.io/github/followers/rafifaiz?label=Follow&style=social"></a>
+  <a href="https://github.com/rafifaiz"><img alt="github followegit commit -m "update profile README dengan assets & badges"s" src="https://img.shields.io/github/followers/rafifaiz?label=Follow&style=social"></a>
   <a href="https://github.com/rafifaiz"><img alt="top langs" src="https://img.shields.io/badge/TopLangs-Personal%20Repo-2b2e3b"></a>
   <a href="https://discord.gg/MvCb8pT7"><img alt="discord" src="https://img.shields.io/badge/Discord-Join%20Server-7289DA?logo=discord&logoColor=white"></a>
 </p>
