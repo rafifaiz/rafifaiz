@@ -1,4 +1,9 @@
 <h1 align="center">Hello I'm Mister L</h1>
+
+<p align="center">
+  <img alt="hacker gif" width="320" src="https://raw.githubusercontent.com/rafifaiz/rafifaiz/main/assets/hacker.gif" />
+</p>
+
 <p align="center">
   🔒 Cyber Security Enthusiast &nbsp;•&nbsp; 🕵️ Offensive Security Learner &nbsp;•&nbsp; 💻 Junior Web Developer
 </p>
