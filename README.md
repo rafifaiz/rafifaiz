@@ -8,9 +8,6 @@
   🔒 Cyber Security Enthusiast &nbsp;•&nbsp; 🕵️ Offensive Security Learner &nbsp;•&nbsp; 💻 Junior Web Developer
 </p>
 
-<!-- GIF kanan -->
-<img align="right" alt="hacker gif" width="320" src="https://media.giphy.com/media/fx6Ynu2Hy1HYmsARdw/giphy.gif" />
-
 <p align="center">
   <a href="https://github.com/rafifaiz"><img alt="github followegit commit -m "update profile README dengan assets & badges"s" src="https://img.shields.io/github/followers/rafifaiz?label=Follow&style=social"></a>
   <a href="https://github.com/rafifaiz"><img alt="top langs" src="https://img.shields.io/badge/TopLangs-Personal%20Repo-2b2e3b"></a>
